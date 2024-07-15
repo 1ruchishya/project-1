@@ -1,4 +1,4 @@
-capstone-Youtube data harvesting
+capstone-Youtube data harvesting :
 The goal of this project is to use Python to gather and organize data from YouTube channels. It involves gathering data, such as playlists, comments, video specifics, and channel information, by utilizing the YouTube Data API.
 
 TOOLS AND TECHNOLOGIES USED IN THE PROJECT:
